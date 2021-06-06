@@ -1,0 +1,9 @@
+= Simple Apache Meecrowave Blueprint
+
+This simple project shows how to get started with an Apache Meecrowave project.
+It contains a simple service stub and a unit test.
+
+Simply run with
+
+ $> mvn clean insteall
+
