@@ -5,5 +5,5 @@ It contains a simple service stub and a unit test.
 
 Simply run with
 
- $> mvn clean insteall
+ $> mvn clean install
 
